@@ -1,11 +1,11 @@
-## 現役バリバリの専門学生です。   主に人工知能について精進しています。
-##
-## **趣味**
-# *睡眠
-# *ゲーム
-# *読書
+# **自己紹介**
+##　現役バリバリの超マイペース専門学生です。   
 
-## よろしく
+## **趣味**
+### *睡眠
+### *ゲーム
+### *読書
+
 
 You can use the [editor on GitHub](https://github.com/yuna1412/20220422/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
